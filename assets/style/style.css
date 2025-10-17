@@ -72,8 +72,21 @@ html {
 .cus-shadow{
 	box-shadow: 0px 0px 24.6px 5.4px rgba(0, 0, 0, 0.3);
 }
+.사각형_16 {
+  background-color: #251b0f;
+  opacity: 0.502;
+  position: absolute;
+  left: -1px;
+  top: 5815px;
+  width: 1921px;
+  height: 782px;
+  z-index: 103;
+}
 
 
+.cus-shadow3{
+	box-shadow: 0px 0px 16.4px 3.6px rgba(0, 0, 0, 0.3);
+}
 .text-mettrix2{
 	text-shadow: 0px 0px 16.4px rgba(0, 0, 0, 0.3);
   	-moz-transform: matrix( 0.95042637276013,0,0,1.0000861551358,0,0);
