@@ -67,22 +67,21 @@ html {
 		opacity: 0;
 	}
 }
-.사각형_5 {
-  border-radius: 49px;
-  background-color: #e2c7a6;
-  position: absolute;
-  left: 585px;
-  top: 3878px;
-  width: 751px;
-  height: 100px;
-  z-index: 148;
+
+
+
+
+.text-mettrix2{
+	text-shadow: 0px 0px 16.4px rgba(0, 0, 0, 0.3);
+  	-moz-transform: matrix( 0.95042637276013,0,0,1.0000861551358,0,0);
+  	-webkit-transform: matrix( 0.95042637276013,0,0,1.0000861551358,0,0);
+  	-ms-transform: matrix( 0.95042637276013,0,0,1.0000861551358,0,0);
 }
-
-
 .container {
 	margin: 0 auto;
 	padding-inline: 15px;
 	color: #2e2e2e;
+	color: #e2c7a6;
 }
 @media screen and (min-width: 1280px) {
 	.container {
