@@ -78,6 +78,24 @@ html {
 
 
 
+.파트원이면_단번에_해답이_나옵니다_ {
+  font-size: 66.661px;
+  font-family: "Pretendard";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.125;
+  text-align: center;
+  -moz-transform: matrix( 0.95042637276013,0,0,1.00008615513579,0,0);
+  -webkit-transform: matrix( 0.95042637276013,0,0,1.00008615513579,0,0);
+  -ms-transform: matrix( 0.95042637276013,0,0,1.00008615513579,0,0);
+  position: absolute;
+  left: 445.396px;
+  top: 7948.304px;
+  z-index: 87;
+}
+
+
+
 
 .cus-shadow3{
 	box-shadow: 0px 0px 16.4px 3.6px rgba(0, 0, 0, 0.3);
